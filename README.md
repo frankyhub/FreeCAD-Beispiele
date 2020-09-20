@@ -1,5 +1,4 @@
 # FreeCAD-Beispiele
-FreeCAD Beispiele und Links
 
 ### Link zur FreeCAD-Dukumentation und Downloads:
 
